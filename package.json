@@ -1,0 +1,16 @@
+{
+  "name": "codemeetings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && cd dist && node index.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "chalk": "^4.1.1",
+    "postmark": "^2.7.6"
+  }
+}
